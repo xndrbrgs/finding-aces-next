@@ -7,7 +7,7 @@ function Hero() {
         </div>
 
         <div>
-            <img src="https://accountabilitylab.org/wp-content/uploads/2020/03/Medium-logo.png" alt="" className="hidden md:inline-flex h-32 lg:h-full"/>
+            <img src="https://i.ibb.co/kH7jKnY/kindpng-41767-375x375.png" alt="" className="hidden md:inline-flex h-32 lg:h-80 lg:m-32"/>
         </div>
     </div>
   )
