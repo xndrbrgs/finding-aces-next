@@ -1,23 +1,32 @@
-# Next.js + Tailwind CSS Example
+  # Finding Aces
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+  ## Description
 
-## Deploy your own
+  Finding Aces is a personal blog discussing everything golf, from new golf tech to personal swing study. The intention behind this blog revolves around personal growth in the game, as personal swing analysis will be shared as time goes by. This blog was created using a combination of React, NextJS, TailwindCSS, and Sanity CMS and the main content manager.
+  
+  <div align="center">
+  <img src="https://i.ibb.co/ZBzPrqN/finding-aces.png" alt="Capture" border="0">
+</div>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+  ## Table of Contents 💻
+  - [Description](#description)
+  <!-- - [Installation](#installation) -->
+  - [Licensing](#licensing)
+  - [Contributing](#contributing)
+  <!-- - [Testing](#testing) -->
+  - [Contact](#contact)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+  <!-- ## Installation ⚒
+  This project can be seen by following this [link!](https://finding-aces-next.vercel.app/) -->
 
-## How to use
+  ## Licensing 📄
+  Distributed under MIT licensing. 
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+  ## Contributing 🙋‍♂️
+  New users can take a look at some of the components that were required for this project by looking at the source files in the repo.
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+  <!-- ## Testing 🧪
+  nmp test -->
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+  ## Contact 🤳
+  If you have any questions regarding this project, feel free to contact me directly at aborgescolon@gmail.com, or on my GitHub at https://github.com/xndrbrgs.
